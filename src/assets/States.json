@@ -1,0 +1,30 @@
+
+[
+    {
+      "id":1,
+      "name": "Andhra Pradesh",
+      "districts":
+        {
+          "id":1,
+          "name":"Ambedkar Konaseema",
+         "s_id":1
+        }
+    },
+    {
+      "id":2,
+      "name": "Telangana"
+    },
+    {
+      "id":3,
+      "name": "Karnataka"
+    },
+    {
+      "id":4,
+      "name": "Kerala"
+    }, {
+      "id":5,
+      "name": "Tamil Nadu"
+    }
+  ]
+  
+  

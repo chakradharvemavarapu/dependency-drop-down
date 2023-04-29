@@ -1,0 +1,18 @@
+<select (change)= "changeUpdateDistricts($event)" [(ngModel)]="selectedOption">
+    <option value="">Select States</option>
+    <option name="selectedOption" value={{s.id}}  *ngFor="let s of states">{{s.name}}</option>
+</select>
+
+<select (change)= "changeUpdateMandal($event)">
+    <option value="">Select Districts</option>
+    <option value={{d.ss_id}} *ngFor="let d of changeDistrict">{{d.name}}</option>
+</select>
+
+<select (change)= "changeUpdateMandal($event)">
+    <option value="">Select Mandal</option>
+    <option value={{d.name}} *ngFor="let d of changeMandal">{{d.name}}</option>
+</select>
+
+
+
+

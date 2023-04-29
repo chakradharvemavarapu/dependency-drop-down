@@ -1,0 +1,53 @@
+[
+    {
+      "id":1,
+      "name":"Ambedkar Konaseema",
+     "s_id":1,
+     "ss_id":1
+    },
+    {
+      "id":1,
+      "name":"East Godavari",
+     "s_id":1
+    },
+    {
+      "id":1,
+      "name":"West Godavari",
+     "s_id":1
+    },
+    {
+      "id":1,
+      "name":"Eluru",
+     "s_id":1
+    },
+    {
+      "id":1,
+      "name":"Krishna",
+     "s_id":1
+    },
+    {
+      "id":2,
+      "name":"Hyderabad",
+     "s_id":2
+    },
+    {
+      "id":2,
+      "name":"JAYASHANKAR BHOOPALPALLY",
+     "s_id":2
+    },
+    {
+      "id":2,
+      "name":"JOGULAMBA GADWAL",
+     "s_id":2
+    },
+    {
+      "id":2,
+      "name":"KAMAREDDY",
+     "s_id":2
+    },
+    {
+      "id":2,
+      "name":"KARIMNAGAR",
+     "s_id":2
+    }
+  ]
